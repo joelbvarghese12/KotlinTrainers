@@ -16,3 +16,4 @@ Currently, this repository contains the following units and modules
 * Lesson 2.3 (Methods)
 * Lesson 2.4 (Inheritance and Overriding)
 * Lesson 2.5 (Data Classes)
+* Lesson 2.6 (Singletons)
