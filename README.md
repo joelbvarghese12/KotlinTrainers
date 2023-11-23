@@ -17,3 +17,6 @@ Currently, this repository contains the following units and modules
 * Lesson 2.4 (Inheritance and Overriding)
 * Lesson 2.5 (Data Classes)
 * Lesson 2.6 (Singletons)
+
+
+To use this program, navigate to any of the units or lessons you would like to learn, read the markdown file (X-X.md) and then complete the kotlin practice.
